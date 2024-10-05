@@ -1,3 +1,7 @@
+Nama   : Dimas Brahmantya Aryasena
+NIM    : 202210370311010
+Kelas  : Pemrograman Web I
+
 ## Technologies Used
 
 - **HTML5**: Provides the structure of the page.
